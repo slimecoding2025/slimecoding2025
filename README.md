@@ -1,12 +1,38 @@
-- 👋 Hi, I’m @slimecoding2025
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# ⚡ Salim Bousmina
 
-<!---
-slimecoding2025/slimecoding2025 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Self-Taught Developer | Technology Enthusiast
 
+Passionate about software development, artificial intelligence, cybersecurity, and building innovative digital experiences.
+
+## 🚀 Skills & Technologies
+
+- Python
+- JavaScript
+- TypeScript
+- HTML5
+- CSS3
+- PHP
+- SQL & MySQL
+- Git & GitHub
+- REST APIs
+- Responsive Web Design
+- Database Design
+- UI/UX Fundamentals
+- Problem Solving
+- Software Development
+
+## 🔥 Interests
+
+- Artificial Intelligence
+- Cybersecurity
+- Web Development
+- Open Source
+- Automation
+- Emerging Technologies
+
+## 🎯 Mission
+
+To continuously learn, create impactful projects, and transform ideas into powerful digital solutions.
+
+> Building, learning, and improving every day.
     
