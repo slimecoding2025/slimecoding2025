@@ -1,4 +1,4 @@
-# ⚡ Salim Bousmina
+# ⚡ Mouhamed Salim Bousmina
 
 💻 Self-Taught Developer | Technology Enthusiast
 
