@@ -5,8 +5,6 @@
 Passionate about software development, artificial intelligence, cybersecurity, and building innovative digital experiences.
 
 ## 🚀 Skills & Technologies
--linux
--cyber security
 - Python
 - JavaScript
 - TypeScript
